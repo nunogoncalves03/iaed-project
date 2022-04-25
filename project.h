@@ -1,7 +1,7 @@
 /**
- * File: proj2.h
- * Author: Nuno Gonçalves (ist1103392)
- * Description: Declarações e macros utilizadas em proj2.c
+ * File: project.h
+ * Author: Nuno Gonçalves
+ * Description: Declarações e macros utilizadas em project.c
  * Date: 2022-04-20
  */
 
