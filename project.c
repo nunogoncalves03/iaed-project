@@ -1,6 +1,6 @@
 /**
- * File: proj2.c
- * Author: Nuno Gonçalves (ist1103392)
+ * File: project.c
+ * Author: Nuno Gonçalves
  * Description: Sistema de gestão de voos entre aeroportos
  * Date: 2022-04-20
  */
